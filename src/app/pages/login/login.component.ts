@@ -12,7 +12,7 @@ import { PrimaryInputComponent } from '../../components/primary-input/primary-in
     PrimaryInputComponent
   ],
   templateUrl: './login.component.html',
-  styleUrl: './login.component.css'
+  styleUrl: './login.component.scss'
 })
 export class LoginComponent {
   loginForm!: FormGroup;
